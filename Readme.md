@@ -1,5 +1,5 @@
 # Web Project
-Well, honestly i know i am doing something bad and messy asf, and since my friend released his project recently so i did too :D
+Exactly i know what i am doing now is bad and messy asf. honestly, since my friend released his project recently so i did it too :D
 #
 btw i am still looking for some ideas on this project, but i think i am going to make a website where user can show their location, upload something, edit something and make interaction each others.
 # TODO
